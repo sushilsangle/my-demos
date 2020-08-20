@@ -9,7 +9,7 @@ public class controller {
     @GetMapping("/info")
     public String getInfo()
     {
-        return "Welcome to Spring Boot world....";
+        return "Welcome to Spring Boot world....application is working fine...";
 
     }
 
